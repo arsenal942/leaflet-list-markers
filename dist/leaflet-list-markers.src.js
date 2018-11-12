@@ -23,14 +23,13 @@ L.Control.ListMarkers = L.Control.extend({
 
 	options: {		
 		layer: false,
-		maxItems: 20,
+		maxItems: 10,
 		collapsed: false,		
 		label: 'title',
 		itemIcon: L.Icon.Default.imagePath+'/marker-icon.png',
 		itemArrow: '&#10148;',	//visit: http://character-code.com/arrows-html-codes.php
-		maxZoom: 9,
+		maxZoom: 18,
 		position: 'bottomleft'
-		//TODO autocollapse
 	},
 
 	initialize: function(options) {
