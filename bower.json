@@ -1,1 +1,15 @@
 
+{
+  "name": "Leaflet.list-markers",
+  "version": "1.0.0",
+  "homepage": "https://github.com/arsenal942/leaflet-list-markers",
+  "authors": [
+    "Nick Clancy <>"
+  ],
+  "description": "Display markers in a list",
+  "main": [
+  	"dist/leaflet-list-markers.src.css",
+  	"dist/leaflet-list-markers.src.js"
+  ],
+  "license": "MIT"
+}
