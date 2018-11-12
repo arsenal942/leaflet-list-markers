@@ -1,7 +1,7 @@
 /* 
- * Leaflet List Markers v0.1.0 - 2017-11-26 
+ * Leaflet List Markers v0.1.0 - 2018-11-13 
  * 
- * Copyright 2017 Stefano Cudini 
+ * Copyright 2018 Stefano Cudini 
  * stefano.cudini@gmail.com 
  * http://labs.easyblog.it/ 
  * 
