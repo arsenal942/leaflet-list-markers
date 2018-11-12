@@ -1,16 +1,15 @@
 {
   "name": "leaflet-list-markers",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "description": "Leaflet Control for listing visible markers/features in a interactive box",
   "repository": {
     "type": "git",
-    "url": "git@github.com:stefanocudini/leaflet-list-markers.git"
+    "url": "git@github.com:arsenal942/leaflet-list-markers.git"
   },
-  "homepage": "http://labs.easyblog.it/maps/leaflet-list-markers/",
+  "homepage": "https://github.com/arsenal942/leaflet-list-markers",
   "author": {
-    "name": "Stefano Cudini",
-    "email": "stefano.cudini@gmail.com",
-    "url": "http://labs.easyblog.it/"
+    "name": "Nick Clancy",
+    "url": "https://github.com/arsenal942/leaflet-list-markers"
   },
   "license": "MIT",
   "keywords": [
@@ -30,7 +29,6 @@
     "grunt-contrib-cssmin": "~0.7.0",
     "grunt-contrib-jshint": "~0.7.2",
     "grunt-contrib-watch": "~0.5.3",
-    "grunt-todos": "~0.2.0",
-    "grunt-svg2png": "~0.2.1"
+    "grunt-todos": "~0.2.0"
   }
 }
